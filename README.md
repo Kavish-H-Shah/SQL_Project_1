@@ -1,7 +1,6 @@
 # SQL Project on Covid-19
 ## This repository contains SQL_Project which based on Covid-19 Data.
-------------------------------------------------------------------------------------------------
-#### SQL Project
+
 The SQL project is based on real Covid data from February 2020 to April 2021. The project aims to retrieve several insights from the data, which are enumerated below:
 
 1) Likelihood of fatality when contracted with Covid-19 with respect to location.
